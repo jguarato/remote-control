@@ -1,0 +1,11 @@
+body {
+  font: 110%/1.4 system-ui, sans-serif;
+}
+h1 {
+  font-weight: 900;
+  letter-spacing: -0.1rem;
+}
+
+p {
+  max-width: 70ch;
+}
